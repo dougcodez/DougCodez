@@ -39,7 +39,7 @@ I have the most knowledge in these languages
   </a>
   
   <a target="_blank" href="https://www.youtube.com/channel/UCGogCYz6CvPqyC4KpyKWqvQ">
-  <img alt="YouTube" src="(https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)">
+  <img alt="YouTube" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white">
   </a>
 </p>
 
