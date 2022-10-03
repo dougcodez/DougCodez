@@ -37,6 +37,10 @@ I have the most knowledge in these languages
 <a target="_blank" href="https://www.instagram.com/dougcodes/">
   <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
+  
+  <a target="_blank" href="https://www.youtube.com/channel/UCGogCYz6CvPqyC4KpyKWqvQ">
+  <img alt="YouTube" src="(https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)">
+  </a>
 </p>
 
 Don't hesitate to reach out as it can be based on project related stuff, or to just have a conversation.
