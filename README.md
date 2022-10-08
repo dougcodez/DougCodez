@@ -8,7 +8,7 @@ degree in Data Science.
 <p align=center>
 <img align=right src="https://github-readme-stats.vercel.app/api/top-langs/?username=DougCodez&theme=dark&show_icons=true&layout=compact&include_all_commits=true&bg_color=00000000&title_color=00CCAA&hide_border=true" />
 <p align=left>
-I have the most knowledge in these languages
+Languages I have the most knowledge in
 <ul>
 - Java
 <br />
