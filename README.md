@@ -22,6 +22,6 @@ Languages I have the most knowledge in
 <br />
 </p>
 <hr />
-<img align=right src="https://github-readme-stats.vercel.app/api?username=DougCodez&theme=dark" />
+<img align=center src="https://github-readme-stats.vercel.app/api?username=DougCodez&theme=dark" />
 <p align=center>
 </p>
